@@ -1,0 +1,17 @@
+[
+  {
+    "p_rel_url": "bhavanamanduru92/Al_Qaryan_Demo/main/sample_employee_data.csv",
+    "p_sink_file": "employee_data.csv",
+    "file_type": "csv"
+  },
+  {
+    "p_rel_url": "bhavanamanduru92/Al_Qaryan_Demo/main/sample-data.json",
+    "p_sink_file": "customer_data.json",
+    "file_type": "json"
+  },
+  {
+    "p_rel_url": "bhavanamanduru92/Al_Qaryan_Demo/main/sample_sales_dashboard.xlsx",
+    "p_sink_file": "sales_data.xlsx",
+    "file_type": "excel"
+  }
+]
