@@ -5,9 +5,9 @@
     "file_type": "csv"
   },
   {
-    "p_rel_url": "bhavanamanduru92/Al_Qaryan_Demo/main/sample-data.json",
-    "p_sink_file": "customer_data.json",
-    "file_type": "json"
+    "p_rel_url": "bhavanamanduru92/Al_Qaryan_Demo/main/sample_dataset.parquet",
+    "p_sink_file": "finance_data.parquet",
+    "file_type": "parquet"
   },
   {
     "p_rel_url": "bhavanamanduru92/Al_Qaryan_Demo/main/sample_sales_dashboard.xlsx",
